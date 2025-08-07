@@ -1,0 +1,11 @@
+NOTE
+
+To C++ and C Programming Languages
+
+
+
+requirements:
+
+CodeBlocks Download http://www.codeblocks.org/downloads/binaries/
+or
+Mingw Download: https://bit.ly/mingw10
